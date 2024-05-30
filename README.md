@@ -1,2 +1,2 @@
 # Amazon-Reviews-Analysis-Using-NLP
-This project utilizes Natural Language Processing (NLP) to analyze sentiment in Amazon customer reviews. By automating the process, businesses can gain valuable insights into customer satisfaction levels and areas for improvement. Ideal for those interested in sentiment analysis and text mining.
+This project, utilizes Natural Language Processing to analyze sentiment in Amazon customer reviews. A major part of this project is creating a pipeline to preprocess the data by removing punctuations and stopwords, and performing count vectorization. Additionally, the project involves training and testing a Naive Bayes classifier model to automate sentiment analysis
